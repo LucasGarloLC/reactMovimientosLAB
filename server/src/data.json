@@ -23,6 +23,38 @@
       "name": "Ahorro",
       "balance": 8500,
       "lastTransaction": "2019-11-15T08:29:04"
+    },
+    {
+      "iban": "BA63 7004 9054 0007 0489",
+      "name": "test",
+      "type": "2",
+      "balance": 0,
+      "lastTransaction": "2025-02-11T08:59:49.273Z",
+      "id": "GBNBuop"
+    },
+    {
+      "iban": "LU46 0237 1Q83 I1K4 3S06",
+      "name": "test2",
+      "type": "1",
+      "balance": 0,
+      "lastTransaction": "2025-02-11T09:02:02.891Z",
+      "id": "lOp9Vvu"
+    },
+    {
+      "iban": "GT53 31E1 2234 K890 2GM7 4Y01 4083",
+      "name": "test3",
+      "type": "1",
+      "balance": 0,
+      "lastTransaction": "2025-02-11T09:03:11.623Z",
+      "id": "adBZyj1"
+    },
+    {
+      "iban": "PS92 A3N6 4577 2174 7498 1644 5910 1",
+      "name": "test final",
+      "type": "2",
+      "balance": 0,
+      "lastTransaction": "2025-02-11T09:03:25.292Z",
+      "id": "2Hs-bWv"
     }
   ],
   "movements": [

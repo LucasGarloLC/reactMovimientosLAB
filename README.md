@@ -1,1 +1,1 @@
-Entrega Módulo 13 - React I (Movimientos) - Laboratorio
+Entrega Módulo 13 - Laboratorio Módulo 13.2 - React Agregar Cuenta
